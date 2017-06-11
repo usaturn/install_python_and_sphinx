@@ -18,7 +18,7 @@ Pythonに慣れている方であればどのディストリビューション�
 
 まず https://www.python.org/downloads/ (:numref:`download-python`) を開き *Download the latest version for Windows* の下にある *Download Python 3.x.x* をクリック、インストーラをダウンロードして下さい。
 
-.. figure:: images/pythonorg.jpg
+.. figure:: /images/pythonorg.jpg
    :name: download-python
    :scale: 60%
 
@@ -28,7 +28,7 @@ Pythonに慣れている方であればどのディストリビューション�
 
 ダウンロードが終わったら、インストーラを実行し、インストールを開始します。
 
-.. figure:: pythoninstaller01.png
+.. figure:: /images/pythoninstaller01.png
    :name: pythoninstaller01
    :scale: 100%
 
@@ -42,14 +42,14 @@ Pythonに慣れている方であればどのディストリビューション�
 
               C:\Users\[ユーザ名]\AppData\Local\Programs\Python\Python36-32
 
-.. figure:: pythoninstaller02.png
+.. figure:: /images/pythoninstaller02.png
    :name: pythoninstaller02
    :scale: 100%
 
    インストール中
 
 
-.. figure:: pythoninstaller03.png
+.. figure:: /images/pythoninstaller03.png
    :name: pythoninstaller03
    :scale: 100%
 
